@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Mishra</h1>
-<h3 align="center">A passionate Competitive programmer from India</h3>
+<h3 align="center">A passionate Competitive programmer and a fullstack developer from India</h3>
 
 <p> <a href="https://twitter.com/Sushant_1901"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sushant-mishra-8b818521a/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
