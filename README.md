@@ -12,9 +12,9 @@
 <p align="left"> <a href="https://twitter.com/sushant_1901" target="blank"><img src="https://img.shields.io/twitter/follow/sushant_1901?logo=twitter&style=for-the-badge" alt="sushant_1901" /></a> </p>
 
 
-- 🌱 I’m currently learning **Frameworks and Blockchain.**
+- 🌱 I’m currently learning **Frameworks and Web Development.**
 
-- 💬 Ask me about **Java, Data Structures, ReactJS.**
+- 💬 Ask me about **Java, Data Structures.**
 
 - 📫 How to reach me **mishrasushant1901@gmail.com**
 <img src="https://github-readme-stats.vercel.app/api?username=sushant1901&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
